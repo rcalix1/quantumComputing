@@ -143,10 +143,18 @@ plt.show()
 
 Need a more advanced notebook, or want help modeling a molecule or material? Just ask!
 
-## Getting started with Quantum Simulation here are 2 books and 2 GitHub repos:
+## Getting started with Quantum Simulation here are books or  GitHub repos or links :
 
-* Simulating Quantum Systems with Python. By: Jesse Decker & Will Zeng [link](https://github.com/qiskit-community/qiskit-nature)
-* Quantum Computation and Quantum Information (aka Mike & Ike). By: Nielsen & Chuang [Qiskit Nature](https://github.com/qiskit-community/qiskit-nature)
+* Simulating Quantum Systems with Python. By: Jesse Decker & Will Zeng 
+* Quantum Computation and Quantum Information (aka Mike & Ike). By: Nielsen & Chuang 
 * https://github.com/qiskit-community/qiskit-nature
 * https://github.com/qutip/qutip-notebooks
+* https://www.youtube.com/watch?v=UCfawlumf80
+* https://cqdmqd.yale.edu/sites/default/files/2024-04/quantum_dynamics_tutorials_PartI_0.pdf?utm_source=chatgpt.com
+* https://ben.land/post/2022/03/09/quantum-mechanics-simulation/
+* https://qutip.org/qutip-tutorials/
+* 
 
+## Amazon Affiliates Disclaimer
+
+* This post/page/article includes Amazon Affiliate links to products. This site receives income if you purchase through these links. This income helps support content such as this one. Content is AI assisted. 
