@@ -4,6 +4,7 @@
 
 ## Hamiltonian Simulations
 
+* The Hamiltonian is basically the equation that governs how a quantum system evolves over time
 * Simulate a super conducter so it works at room temperature 
 * Solar cells
 * Materials Science - simulate materials
