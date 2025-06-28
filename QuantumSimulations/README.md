@@ -146,7 +146,7 @@ Need a more advanced notebook, or want help modeling a molecule or material? Jus
 ## Getting started with Quantum Simulation here are books or  GitHub repos or links :
 
 * Simulating Quantum Systems with Python. By: Jesse Decker & Will Zeng 
-* Quantum Computation and Quantum Information (aka Mike & Ike). By: Nielsen & Chuang 
+* Quantum Computation and Quantum Information (aka Mike & Ike). By: Nielsen & Chuang [Amazon](https://amzn.to/3G0YVpX)
 * https://github.com/qiskit-community/qiskit-nature
 * https://github.com/qutip/qutip-notebooks
 * https://www.youtube.com/watch?v=UCfawlumf80
